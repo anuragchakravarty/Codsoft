@@ -3,7 +3,7 @@ This repository is part of my Python programming internship with CodSoft. Here, 
 
 ## 1. Rock, Paper, Scissors Game
 
-Welcome to the Rock, Paper, Scissors game repository! This repository contains a simple, interactive command-line implementation of the classic Rock, Paper, Scissors game using Python.
+Welcome to the Rock, Paper, Scissors game. This Program contains a simple, interactive command-line implementation of the classic Rock, Paper, Scissors game using Python.
 ### Program Description
 1. Displays the game name and rules.
 2. Prompt the user to start the game.
@@ -13,3 +13,17 @@ Welcome to the Rock, Paper, Scissors game repository! This repository contains a
 6. The current score is displayed.
 7. The user is asked if they want to continue playing.
 8. The game ends when the user chooses 'N/n'.
+
+## 2. Password Generator Program
+
+Welcome to the Password Generator Program. This Program contains a simple, interactive command-line implementation of a password generator using Python.
+### Program Description
+1. Displays a welcome message and instructions.
+2. Provides menu options to generate a password or exit the program.
+3. Prompts the user to enter the desired password length (5 to 16 characters).
+4. Generates passwords based on length:
+5. Weak (5-8 characters): Numbers only.
+6. Better (9-12 characters): Lowercase letters and numbers.
+7. Strong (13-16 characters): Special characters, uppercase and lowercase letters, and numbers.
+8. Displays the generated password.
+9. Allows the user to generate another password or exit.
