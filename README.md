@@ -1,4 +1,5 @@
 # Codsoft
+This repository is part of my Python programming internship with CodSoft. Here, I am uploading various tasks assigned by CodSoft. Follow along to see my progress and the exciting projects I'm working on!
 
 ## 1. Rock, Paper, Scissors Game
 
