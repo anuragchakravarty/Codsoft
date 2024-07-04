@@ -27,3 +27,18 @@ Welcome to the Password Generator Program. This Program contains a simple, inter
 7. Strong (13-16 characters): Special characters, uppercase and lowercase letters, and numbers.
 8. Displays the generated password.
 9. Allows the user to generate another password or exit.
+
+## 3. Simple Calculator(Basic Arithmetic operations)
+
+Welcome to the Basic Arithmetic Operations Program. This Program contains a simple, interactive command-line implementation for performing basic arithmetic operations using Python.
+### Program Description
+1. Displays a welcome message and menu options.
+2. Prompts the user to perform basic arithmetic operations like Addition, Subtraction, Multiplication, Division, and Modulo.
+3. Prompts the user to enter two numbers.
+4. Performs the chosen arithmetic operation and displays the result (handles division by zero error also).
+5. Allows the user to perform another operation or exit the program.
+6. The program ends when the user chooses to exit.
+
+
+
+
