@@ -31,7 +31,7 @@ Welcome to the Password Generator Program. This Program contains a simple, inter
 8. Displays the generated password.
 9. Allows the user to generate another password or exit.
 
-## [Simple Calculator(Basic Arithmetic operations)](https://github.com/anuragchakravarty/Codsoft/blob/main/Calaculator__(Basic_Arithmetic_Operator).ipynb)
+## [Simple Calculator (Basic Arithmetic operations)](https://github.com/anuragchakravarty/Codsoft/blob/main/Calaculator__(Basic_Arithmetic_Operator).ipynb)
 
 Welcome to the Basic Arithmetic Operations Program. This Program contains a simple, interactive command-line implementation for performing basic arithmetic operations using Python.
 ### Program Description
