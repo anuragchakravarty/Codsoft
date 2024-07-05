@@ -1,7 +1,7 @@
 # Codsoft
 This repository is part of my Python programming internship with CodSoft. Here, I am uploading various tasks assigned by CodSoft. Follow along to see my progress and the exciting projects I'm working on!
 
-## 1. Rock, Paper, Scissors Game
+## [Rock, Paper, Scissors Game](https://github.com/anuragchakravarty/Codsoft/blob/main/Rock_Paper_Scissors.ipynb)
 
 Welcome to the Rock, Paper, Scissors game. This Program contains a simple, interactive command-line implementation of the classic Rock, Paper, Scissors game using Python.
 ### Program Description
@@ -14,7 +14,7 @@ Welcome to the Rock, Paper, Scissors game. This Program contains a simple, inter
 7. The user is asked if they want to continue playing.
 8. The game ends when the user chooses 'N/n'.
 
-## 2. Password Generator Program
+## [Password Generator Program](https://github.com/anuragchakravarty/Codsoft/blob/main/Password_generator.ipynb)
 
 Welcome to the Password Generator Program. This Program contains a simple, interactive command-line implementation of a password generator using Python.
 ### Program Description
@@ -28,7 +28,7 @@ Welcome to the Password Generator Program. This Program contains a simple, inter
 8. Displays the generated password.
 9. Allows the user to generate another password or exit.
 
-## 3. Simple Calculator(Basic Arithmetic operations)
+## [Simple Calculator(Basic Arithmetic operations)](https://github.com/anuragchakravarty/Codsoft/blob/main/Calaculator__(Basic_Arithmetic_Operator).ipynb)
 
 Welcome to the Basic Arithmetic Operations Program. This Program contains a simple, interactive command-line implementation for performing basic arithmetic operations using Python.
 ### Program Description
