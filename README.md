@@ -42,6 +42,19 @@ Welcome to the Basic Arithmetic Operations Program. This Program contains a simp
 5. Allows the user to perform another operation or exit the program.
 6. The program ends when the user chooses to exit.
 
+## [To-Do List Application]()
+Welcome to the To-Do List Application. This program allows you to manage your tasks interactively via the command line.
+###Program Description:
+1. Displays a welcome message and menu options.
+2. Prompts users to add, view, or remove tasks from the list.
+3. Handles task removal by task number, including error handling for invalid inputs.
+4. Allows users to perform multiple operations until they choose to exit.
+5. Ends the program when the user opts to exit.
+
+
+
+
+
 
 
 
