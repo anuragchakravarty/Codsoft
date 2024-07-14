@@ -4,6 +4,9 @@ This repository is part of my Python programming internship with CodSoft. Here, 
 ## [Offer Letter](https://github.com/anuragchakravarty/Codsoft/blob/main/Offer_Letter.pdf)
 This is the offer letter provided by Codsoft for the Python Intern position.
 
+## [Internship Certificate]()
+This is the Internship Program Completion Certificate.
+
 ## [Rock, Paper, Scissors Game](https://github.com/anuragchakravarty/Codsoft/blob/main/Rock_Paper_Scissors.ipynb)
 
 Welcome to the Rock, Paper, Scissors game. This Program contains a simple, interactive command-line implementation of the classic Rock, Paper, Scissors game using Python.
