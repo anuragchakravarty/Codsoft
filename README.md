@@ -4,7 +4,7 @@ This repository is part of my Python programming internship with CodSoft. Here, 
 ## [Offer Letter](https://github.com/anuragchakravarty/Codsoft/blob/main/Offer_Letter.pdf)
 This is the offer letter provided by Codsoft for the Python Intern position.
 
-## [Internship Certificate]()
+## [Internship Certificate](https://github.com/anuragchakravarty/Codsoft/blob/main/Internship%20Certificate.pdf)
 This is the Internship Program Completion Certificate.
 
 ## [Rock, Paper, Scissors Game](https://github.com/anuragchakravarty/Codsoft/blob/main/Rock_Paper_Scissors.ipynb)
